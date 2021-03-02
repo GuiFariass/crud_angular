@@ -1,0 +1,19 @@
+table {
+    width: 100%;
+}
+
+.edit > i {
+    color: #d9cd26;
+}
+
+.delete > i {
+    color: #e35e6b;
+}
+
+.edit {
+    margin-right: 10px;
+}
+
+.line:hover {
+    background-color: rgb(235, 235, 235);
+}
