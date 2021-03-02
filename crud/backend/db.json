@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Nootebok Mac Pro",
+      "price": 12000.89
+    },
+    {
+      "id": 3,
+      "name": "Sansung S20++",
+      "price": 5000.89
+    },
+    {
+      "name": "Lapis",
+      "price": "1",
+      "id": 4
+    },
+    {
+      "name": "Caneta",
+      "price": "2.50",
+      "id": 5
+    }
+  ]
+}
